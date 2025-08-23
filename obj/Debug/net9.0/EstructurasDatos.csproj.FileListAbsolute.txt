@@ -1,0 +1,14 @@
+R:\estructuradatos\EstructurasDatos\obj\Debug\net9.0\EstructurasDatos.GeneratedMSBuildEditorConfig.editorconfig
+R:\estructuradatos\EstructurasDatos\obj\Debug\net9.0\EstructurasDatos.AssemblyInfoInputs.cache
+R:\estructuradatos\EstructurasDatos\obj\Debug\net9.0\EstructurasDatos.AssemblyInfo.cs
+R:\estructuradatos\EstructurasDatos\obj\Debug\net9.0\EstructurasDatos.csproj.CoreCompileInputs.cache
+R:\estructuradatos\EstructurasDatos\bin\Debug\net9.0\EstructurasDatos.exe
+R:\estructuradatos\EstructurasDatos\bin\Debug\net9.0\EstructurasDatos.deps.json
+R:\estructuradatos\EstructurasDatos\bin\Debug\net9.0\EstructurasDatos.runtimeconfig.json
+R:\estructuradatos\EstructurasDatos\bin\Debug\net9.0\EstructurasDatos.dll
+R:\estructuradatos\EstructurasDatos\bin\Debug\net9.0\EstructurasDatos.pdb
+R:\estructuradatos\EstructurasDatos\obj\Debug\net9.0\EstructurasDatos.dll
+R:\estructuradatos\EstructurasDatos\obj\Debug\net9.0\refint\EstructurasDatos.dll
+R:\estructuradatos\EstructurasDatos\obj\Debug\net9.0\EstructurasDatos.pdb
+R:\estructuradatos\EstructurasDatos\obj\Debug\net9.0\EstructurasDatos.genruntimeconfig.cache
+R:\estructuradatos\EstructurasDatos\obj\Debug\net9.0\ref\EstructurasDatos.dll
