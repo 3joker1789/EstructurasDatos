@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\RAMIRO SARITAMA\\.nuget\\packages\\": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "r:\\estructuradatos\\EstructurasDatos\\EstructurasDatos.csproj",
+      "projectUniqueName": "R:\\estructuradatos\\EstructurasDatos\\EstructurasDatos\\EstructurasDatos.csproj",
       "projectName": "EstructurasDatos",
-      "projectPath": "r:\\estructuradatos\\EstructurasDatos\\EstructurasDatos.csproj",
+      "projectPath": "R:\\estructuradatos\\EstructurasDatos\\EstructurasDatos\\EstructurasDatos.csproj",
       "packagesPath": "C:\\Users\\RAMIRO SARITAMA\\.nuget\\packages\\",
-      "outputPath": "r:\\estructuradatos\\EstructurasDatos\\obj\\",
+      "outputPath": "R:\\estructuradatos\\EstructurasDatos\\EstructurasDatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RAMIRO SARITAMA\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net8.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -43,12 +43,11 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
