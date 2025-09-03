@@ -1,0 +1,5 @@
+R:\estructuradatos\EstructurasDatos\EstructurasDatos\obj\Debug\net8.0\EstructurasDatos.GeneratedMSBuildEditorConfig.editorconfig
+R:\estructuradatos\EstructurasDatos\EstructurasDatos\obj\Debug\net8.0\EstructurasDatos.AssemblyInfoInputs.cache
+R:\estructuradatos\EstructurasDatos\EstructurasDatos\obj\Debug\net8.0\EstructurasDatos.AssemblyInfo.cs
+R:\estructuradatos\EstructurasDatos\EstructurasDatos\obj\Debug\net8.0\EstructurasDatos.csproj.CoreCompileInputs.cache
+R:\estructuradatos\EstructurasDatos\EstructurasDatos\obj\Debug\net8.0\EstructurasDatos.sourcelink.json
